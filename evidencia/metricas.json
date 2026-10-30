@@ -1,0 +1,16 @@
+{
+  "origen": "simulado",
+  "filas_totales": 2400,
+  "filas_train": 1920,
+  "filas_test": 480,
+  "prevalencia_churn_test": 0.3229,
+  "accuracy": 0.6791666666666667,
+  "precision": 0.502262443438914,
+  "recall": 0.7161290322580646,
+  "f1": 0.5904255319148937,
+  "tn": 215,
+  "fp": 110,
+  "fn": 44,
+  "tp": 111,
+  "total_prueba": 480
+}

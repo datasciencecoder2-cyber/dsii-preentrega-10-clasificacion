@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+   Permanece       0.83      0.66      0.74       325
+    Abandona       0.50      0.72      0.59       155
+
+    accuracy                           0.68       480
+   macro avg       0.67      0.69      0.66       480
+weighted avg       0.72      0.68      0.69       480
